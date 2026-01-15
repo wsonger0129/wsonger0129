@@ -1,4 +1,4 @@
-# Hi, I'm Whitney :)
+# Hi, I'm Whitney 😺
 
 Building AI/ML applications and learning by shipping real products.
 
@@ -7,6 +7,7 @@ Building AI/ML applications and learning by shipping real products.
 **Tech stack:** Python • Lua • GCP • Terraform • Docker • SQL • REST APIs
 
 **Find me:** [LinkedIn](https://www.linkedin.com/in/wsonger)
+
 📌 Check out my pinned projects below
 <!--
 **wsonger0129/wsonger0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
