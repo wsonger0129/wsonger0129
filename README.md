@@ -1,8 +1,8 @@
-# Hi, I'm Whitney 😺
+# Hi, I'm Whitney 😊
 
-Building AI/ML applications and learning by shipping real products.
+I'm building AI/ML applications that are made to deploy, run on hardware, and face constraints!
 
-**Currently working on:** PantryVision (AI-powered recipe recommendations using computer vision) and full-stack game development in Lua
+**Currently working on:** [PantryVision](https://wsonger0129.github.io/pantry-vision/) (AI-powered recipe recommendations using machine vision) and full-stack game development in Lua
 
 **Tech stack:** Python • Lua • GCP • Terraform • Docker • SQL • REST APIs
 
