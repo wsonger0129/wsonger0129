@@ -7,7 +7,10 @@ I'm building AI/ML applications that are made to deploy, run on hardware, and fa
 </a>
 (AI-powered recipe recommendations using machine vision) and full-stack game development in Lua
 
-**Tech stack:** Python • Lua • GCP • Terraform • Docker • SQL • REST APIs
+**Tech stack:**  
+Backend: Python • Lua • SQL • REST APIs  
+Infra: GCP • Terraform • Docker  
+Frontend: HTML • CSS • JavaScript
 
 **Find me:** [LinkedIn](https://www.linkedin.com/in/wsonger)
 
