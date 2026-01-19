@@ -2,7 +2,10 @@
 
 I'm building AI/ML applications that are made to deploy, run on hardware, and face constraints!
 
-**Currently working on:** [PantryVision](https://wsonger0129.github.io/pantry-vision/) (AI-powered recipe recommendations using machine vision) and full-stack game development in Lua
+**Currently working on:** <a href="https://wsonger0129.github.io/pantry-vision/" target="_blank" rel="noopener noreferrer">
+  PantryVision
+</a>
+(AI-powered recipe recommendations using machine vision) and full-stack game development in Lua
 
 **Tech stack:** Python • Lua • GCP • Terraform • Docker • SQL • REST APIs
 
