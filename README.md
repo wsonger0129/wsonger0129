@@ -15,6 +15,8 @@ Infrastructure: GCP • Terraform • Docker<br>
 **Find me:** [LinkedIn](https://www.linkedin.com/in/wsonger)
 
 📌 Check out my pinned projects below
+
+*fun fact: I switched to Linux!*
 <!--
 **wsonger0129/wsonger0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
