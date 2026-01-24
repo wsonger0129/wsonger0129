@@ -8,9 +8,10 @@ I'm building AI/Embedded applications that are made to deploy, run on hardware, 
 (AI-powered recipe recommendations using machine vision) and full-stack game development in Lua
 
 **Tech stack:**  
-Backend: Python • Lua • SQL • REST APIs  
-Infra: GCP • Terraform • Docker  
-Frontend: HTML • CSS • JavaScript
+Backend: Python • Lua • JavaScript • REST APIs
+Embedded & Digital Design: RTL design, simulation (Verilog)
+Infra: GCP • Terraform • Docker
+Frontend: HTML • CSS
 
 **Find me:** [LinkedIn](https://www.linkedin.com/in/wsonger)
 
