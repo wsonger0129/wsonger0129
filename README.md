@@ -1,6 +1,6 @@
 # Hi, I'm Whitney 😊
 
-I'm building AI/ML applications that are made to deploy, run on hardware, and face constraints!
+I'm building AI/Embedded applications that are made to deploy, run on hardware, and face constraints!
 
 **Currently working on:** <a href="https://wsonger0129.github.io/pantry-vision/" target="_blank" rel="noopener noreferrer">
   PantryVision
