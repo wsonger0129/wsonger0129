@@ -5,7 +5,7 @@ I'm building AI/Embedded applications that are made to deploy, run on hardware, 
 **Currently working on:** <a href="https://wsonger0129.github.io/pantry-vision/" target="_blank" rel="noopener noreferrer">
   PantryVision
 </a>
-(AI-powered recipe recommendations using machine vision) and full-stack game development in Lua
+(AI-powered recipe recommendations using machine vision), HorizonAir (Machine Vision Drone), and full-stack game development in Lua
 
 **Tech stack:**  
 Software: Python • Lua • JavaScript • HTML • CSS • REST APIs<br>
